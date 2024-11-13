@@ -1,0 +1,18 @@
+.bg-img1 {
+    background-image: url('mountains-moon-nature-hd-wallpaper-preview.jpg'); /* Thay thế đường dẫn hình ảnh */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+.bg-img2 {
+    background-image: url('Screenshot\ 2024-10-16\ 024040.png'); /* Thay thế đường dẫn hình ảnh */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+.bg-img3 {
+    background-image: url('Screenshot\ 2024-10-16\ 024105.png'); /* Thay thế đường dẫn hình ảnh */
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
